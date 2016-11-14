@@ -7,7 +7,7 @@
         <link rel='stylesheet' href='style.css'/> <!-- Länk till stildokument -->
     </head> 
     <body><!--sidans innehåll-->
-        <form action="index.php" method="post"> 
+        <form action="form.php" method="post"> 
             <fieldset>
                 <legend>text</legend>
                 <p>
